@@ -1,0 +1,3 @@
+[submodule "3_MauiApp1_xaml"]
+	path = 3_MauiApp1_xaml
+	url = https://github.com/czkat/Build-mobile-and-desktop-apps-with-.NET-MAUI-Sample-Exercises.git
