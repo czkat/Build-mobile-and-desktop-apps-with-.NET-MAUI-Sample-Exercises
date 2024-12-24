@@ -1,0 +1,1 @@
+C:\Users\admin\Desktop\net\4_MauiApp1_xaml-pages-layout\exercise3_grid\TipCalculator\TipCalculator.csproj;x64
