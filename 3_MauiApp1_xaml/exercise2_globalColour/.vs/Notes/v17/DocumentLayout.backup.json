@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\net\\MauiApp1_xaml\\exercise2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70C7D07F-7BF6-40D0-80C8-490C60CEDD3D}|Notes\\Notes.csproj|c:\\users\\admin\\desktop\\net\\mauiapp1_xaml\\exercise2\\notes\\sharedresources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70C7D07F-7BF6-40D0-80C8-490C60CEDD3D}|Notes\\Notes.csproj|solutionrelative:notes\\sharedresources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C7D07F-7BF6-40D0-80C8-490C60CEDD3D}|Notes\\Notes.csproj|c:\\users\\admin\\desktop\\net\\mauiapp1_xaml\\exercise2\\notes\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{70C7D07F-7BF6-40D0-80C8-490C60CEDD3D}|Notes\\Notes.csproj|solutionrelative:notes\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C7D07F-7BF6-40D0-80C8-490C60CEDD3D}|Notes\\Notes.csproj|c:\\users\\admin\\desktop\\net\\mauiapp1_xaml\\exercise2\\notes\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{70C7D07F-7BF6-40D0-80C8-490C60CEDD3D}|Notes\\Notes.csproj|solutionrelative:notes\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C7D07F-7BF6-40D0-80C8-490C60CEDD3D}|Notes\\Notes.csproj|c:\\users\\admin\\desktop\\net\\mauiapp1_xaml\\exercise2\\notes\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{70C7D07F-7BF6-40D0-80C8-490C60CEDD3D}|Notes\\Notes.csproj|solutionrelative:notes\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C7D07F-7BF6-40D0-80C8-490C60CEDD3D}|Notes\\Notes.csproj|c:\\users\\admin\\desktop\\net\\mauiapp1_xaml\\exercise2\\notes\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70C7D07F-7BF6-40D0-80C8-490C60CEDD3D}|Notes\\Notes.csproj|solutionrelative:notes\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SharedResources.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\net\\MauiApp1_xaml\\exercise2\\Notes\\SharedResources.cs",
+              "RelativeDocumentMoniker": "Notes\\SharedResources.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\net\\MauiApp1_xaml\\exercise2\\Notes\\SharedResources.cs",
+              "RelativeToolTip": "Notes\\SharedResources.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T08:18:42.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\net\\MauiApp1_xaml\\exercise2\\Notes\\App.xaml",
+              "RelativeDocumentMoniker": "Notes\\App.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\net\\MauiApp1_xaml\\exercise2\\Notes\\App.xaml",
+              "RelativeToolTip": "Notes\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-23T08:18:00.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\net\\MauiApp1_xaml\\exercise2\\Notes\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Notes\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\net\\MauiApp1_xaml\\exercise2\\Notes\\AppShell.xaml",
+              "RelativeToolTip": "Notes\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-23T08:17:58.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\net\\MauiApp1_xaml\\exercise2\\Notes\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Notes\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\net\\MauiApp1_xaml\\exercise2\\Notes\\MainPage.xaml",
+              "RelativeToolTip": "Notes\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-23T08:17:54.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\net\\MauiApp1_xaml\\exercise2\\Notes\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "Notes\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\net\\MauiApp1_xaml\\exercise2\\Notes\\MauiProgram.cs",
+              "RelativeToolTip": "Notes\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T08:17:48.062Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
