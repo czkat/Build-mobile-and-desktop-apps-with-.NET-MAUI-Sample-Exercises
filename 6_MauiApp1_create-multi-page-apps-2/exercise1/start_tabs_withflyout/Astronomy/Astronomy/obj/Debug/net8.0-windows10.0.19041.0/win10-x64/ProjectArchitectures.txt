@@ -1,0 +1,1 @@
+C:\6_MauiApp1_create-multi-page-apps\exercise1\start_tabs_withflyout\Astronomy\Astronomy\Astronomy.csproj;x64
